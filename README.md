@@ -1,1 +1,2 @@
 # CS4518-GroupProject
+This group project aims to map the density of on-campus locations at WPI. It will initially be offered as an Android mobile application, written in Kotlin. Ideally, users can quickly open the app to get a sense of how busy a given location is. If they deem it too busy, campus goers can avoid a certain area. (For those reading this in the future, the aim is to avoid crowds at the peak of COVID-19.)
